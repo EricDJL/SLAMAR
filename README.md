@@ -1,2 +1,2 @@
 # SLAMAR
-基于rgb-d相机的AR框架
+SLAM for AR(RGB-D)
