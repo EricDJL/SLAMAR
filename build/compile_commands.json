@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/eric/KDproject/slamAR/build/src",
+  "command": "g++   -DslamAR_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/home/eric/Sophus -I/home/eric/KDproject/slamAR/include  -std=c++11 -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/slamAR.dir/camera.cpp.o -c /home/eric/KDproject/slamAR/src/camera.cpp",
+  "file": "/home/eric/KDproject/slamAR/src/camera.cpp"
+},
+{
+  "directory": "/home/eric/KDproject/slamAR/build/src",
+  "command": "g++   -DslamAR_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/home/eric/Sophus -I/home/eric/KDproject/slamAR/include  -std=c++11 -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/slamAR.dir/frame.cpp.o -c /home/eric/KDproject/slamAR/src/frame.cpp",
+  "file": "/home/eric/KDproject/slamAR/src/frame.cpp"
+},
+{
+  "directory": "/home/eric/KDproject/slamAR/build/src",
+  "command": "g++   -DslamAR_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/home/eric/Sophus -I/home/eric/KDproject/slamAR/include  -std=c++11 -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/slamAR.dir/mappoint.cpp.o -c /home/eric/KDproject/slamAR/src/mappoint.cpp",
+  "file": "/home/eric/KDproject/slamAR/src/mappoint.cpp"
+},
+{
+  "directory": "/home/eric/KDproject/slamAR/build/src",
+  "command": "g++   -DslamAR_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/home/eric/Sophus -I/home/eric/KDproject/slamAR/include  -std=c++11 -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/slamAR.dir/map.cpp.o -c /home/eric/KDproject/slamAR/src/map.cpp",
+  "file": "/home/eric/KDproject/slamAR/src/map.cpp"
+},
+{
+  "directory": "/home/eric/KDproject/slamAR/build/src",
+  "command": "g++   -DslamAR_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/home/eric/Sophus -I/home/eric/KDproject/slamAR/include  -std=c++11 -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/slamAR.dir/config.cpp.o -c /home/eric/KDproject/slamAR/src/config.cpp",
+  "file": "/home/eric/KDproject/slamAR/src/config.cpp"
+},
+{
+  "directory": "/home/eric/KDproject/slamAR/build/src",
+  "command": "g++   -DslamAR_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/home/eric/Sophus -I/home/eric/KDproject/slamAR/include  -std=c++11 -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/slamAR.dir/vo.cpp.o -c /home/eric/KDproject/slamAR/src/vo.cpp",
+  "file": "/home/eric/KDproject/slamAR/src/vo.cpp"
+},
+{
+  "directory": "/home/eric/KDproject/slamAR/build/src",
+  "command": "g++   -DslamAR_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/home/eric/Sophus -I/home/eric/KDproject/slamAR/include  -std=c++11 -march=native -O3 -DNDEBUG -fPIC   -o CMakeFiles/slamAR.dir/g2o_types.cpp.o -c /home/eric/KDproject/slamAR/src/g2o_types.cpp",
+  "file": "/home/eric/KDproject/slamAR/src/g2o_types.cpp"
+},
+{
+  "directory": "/home/eric/KDproject/slamAR/build/test",
+  "command": "g++    -I/usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/home/eric/Sophus -I/home/eric/KDproject/slamAR/include  -std=c++11 -march=native -O3 -DNDEBUG   -o CMakeFiles/main.dir/main.cpp.o -c /home/eric/KDproject/slamAR/test/main.cpp",
+  "file": "/home/eric/KDproject/slamAR/test/main.cpp"
+}
+]
