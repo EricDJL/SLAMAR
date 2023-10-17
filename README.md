@@ -1,3 +1,3 @@
 # SLAMAR
-SLAM for AR(RGB-D)
+SLAM for AR(Mono camera)
 A Kdevelop project
